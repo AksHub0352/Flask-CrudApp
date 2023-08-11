@@ -22,3 +22,6 @@ pip install -r requirements.txt
 6. Your server will run on http://127.0.0.1:5000/
 7. Import [Postman collection](CoRider.postman_collection.json) in postman.
 8. Run all requests.
+
+Routes
+1. POST http://127.0.0.1:5000/users feild= {name , email ,password}
