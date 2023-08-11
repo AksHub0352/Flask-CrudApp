@@ -25,3 +25,4 @@ pip install -r requirements.txt
 
 Routes
 1. POST http://127.0.0.1:5000/users feild= {name , email ,password}
+2. GET http://127.0.0.1:5000/users  get all users
